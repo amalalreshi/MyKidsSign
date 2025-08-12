@@ -50,4 +50,4 @@ With an easy-to-use interface and a focus on both sign language and practical li
 
 ## 📸 Preview  
 
-  ![image 1](https://github.com/user-attachments/assets/5ff84cee-9609-4887-9f80-6894ec38b300)
+![image 1](https://github.com/user-attachments/assets/e62ea873-0d7c-470c-bb7a-90c530ba8f60)
