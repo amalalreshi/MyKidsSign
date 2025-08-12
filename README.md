@@ -1,7 +1,9 @@
 # # إشارة صغيري – My Kid Sign
 
 MY KID SIGN is an innovative educational app designed to empower deaf children.
-        <img width="600" height="200" alt="glide77" alian="center" src="https://github.com/user-attachments/assets/4acfd70d-3f2f-4aa8-83bd-de7a62e5e73e" />
+<p alian="center">
+        <img width="600" height="200" alt="glide77"  src="https://github.com/user-attachments/assets/4acfd70d-3f2f-4aa8-83bd-de7a62e5e73e" />
+</p>
 
 ---
 
