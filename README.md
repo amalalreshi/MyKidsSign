@@ -2,7 +2,7 @@
 
 MY KID SIGN is an innovative educational app designed to empower deaf children.
 <p align="center">
-  <img width="600" height="200" alt="glide77" src="https://github.com/user-attachments/assets/4acfd70d-3f2f-4aa8-83bd-de7a62e5e73e" />
+  <img width="600" height="300" alt="glide77" src="https://github.com/user-attachments/assets/4acfd70d-3f2f-4aa8-83bd-de7a62e5e73e" />
 </p>
 
 ---
